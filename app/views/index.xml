@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<View>
+		<TableView id="tablaWeb"></TableView>
+	    </View>
+ 	</Window>
+</Alloy>

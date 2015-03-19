@@ -1,0 +1,8 @@
+".container": {
+	backgroundColor:"white"
+},
+"#tablaWeb":{
+	layout:'vertical',
+	top:20,
+	separatorColor:'blue'
+}
